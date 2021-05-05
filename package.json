@@ -1,6 +1,6 @@
 {
   "name": "weather",
-  "homepage": "https://szymonsys.github.io/weather/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "engines": {
